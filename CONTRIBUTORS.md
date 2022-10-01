@@ -317,3 +317,10 @@
 
 
 
+
+#### Name: [Shivam Kumar](https://github.com/TechShivam02/)
+- Place: Budhlada, India
+
+- Bio : Hey! Its Shivam currently enrolled in 3rd year of B.Tech having immense interest in tech and am currently learning skills for Full Stack Developent.
+
+- GitHub: [TechShivam02](https://github.com/TechShivam02/)
